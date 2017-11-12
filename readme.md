@@ -1,0 +1,1 @@
+Just copy the content of /binaries onto your micro SD card!
